@@ -3,8 +3,8 @@ import os
 import time
 import model
 
-access_key = "AKIAJA577YEFS6HHVZCQ"
-access_secret = "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"
+access_key = "AKIAIZHM4QZ2PYAPVE6Q"
+access_secret = "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"
 region = "us-east-1"
 queue_url = "https://sqs.us-east-1.amazonaws.com/083630338242/DeepSight"
 
