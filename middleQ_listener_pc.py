@@ -31,4 +31,4 @@ while True:
         # run shell script to retrieve image from Pi
         call(["C:\\Program Files\\Git\\git-bash.exe", "copy_image.sh"])
         # classify image and return
-        call(["python", "return_response.py"])
+        call(["python", "returnQ_trigger_pc.py"])
