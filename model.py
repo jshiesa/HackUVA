@@ -16,7 +16,7 @@ def classify():
     # ap.add_argument("-l", "--labels", required=True,
     #                 help="path to ImageNet labels (i.e., syn-sets)")
     # args = vars(ap.parse_args())
-    args = {'image': 'images/jemma.png', 'prototxt': 'bvlc_googlenet.prototxt',
+    args = {'image': 'images/image.jpg', 'prototxt': 'bvlc_googlenet.prototxt',
             'model': 'bvlc_googlenet.caffemodel', 'labels': 'synset_words.txt'}
 
     # load the input image from disk
